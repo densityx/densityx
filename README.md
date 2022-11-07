@@ -1,8 +1,6 @@
 ## Hey, Ahmad Aziz here! 👋🏻
 Welcome to my GitHub Profile 🚀
 
----
-
 ### About Me
 - 🧑🏻‍💻 Software Engineer at ValueLabs
 - 🖥 Developing Strapi + Next Js + Tailwind CSS
