@@ -3,13 +3,15 @@ Welcome to my GitHub Profile 🚀
 
 ### About Me
 - 🧑🏻‍💻 Software Engineer at ValueLabs
-- 🖥 Developing Strapi + Next Js + Tailwind CSS
-- ❤️ I Love writing PHP and JS and building web-based projects
+- 🖥 Day to day working on Strapi CMS, NextJs, ReactJs, Tailwind CSS and More
+- 💜 I Love writing PHP, JS, TS and building web-based projects
 
 ### Personal Project I am Currently Working on 💪🏻
 - Filament PHP Extension 🦒
+- Portfolio V2
 
 ### Things I am Currently Learning 🧪
+- AngularJs 🫶🏻
 - NestJs 🦁
 - Flutter 📱
 - PHP / JS Testing 🐘
