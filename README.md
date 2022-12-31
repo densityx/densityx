@@ -7,14 +7,16 @@ Welcome to my GitHub Profile 🚀
 - 💜 I Love writing PHP, JS, TS and building web-based projects
 
 ### Personal Project I am Currently Working on 💪🏻
+- React Native App
+- Portfolio V3
 - Filament PHP Extension 🦒
-- Portfolio V2
 
 ### Things I am Currently Learning 🧪
-- AngularJs 🫶🏻
+- React Native 🫶🏻
 - NestJs 🦁
 - Flutter 📱
 - PHP / JS Testing 🐘
+- Svelte 🤩
 
 ### Skills
 | # | Details |
@@ -24,4 +26,4 @@ Welcome to my GitHub Profile 🚀
 | Back end | Laravel - NuxtJs - NextJs - Strapi CMS |
 | Databases | MySQL - PostgreSQL - NoSQL (Firebase) |
 | Designing | Figma - Sketch - Adobe XD - Framer |
-| Other | Git - AJAX - Consuming API - Flutter UI |
+| Other | Git - AJAX - Consuming API - Flutter UI - Graph QL - React Native - PocketBase |
