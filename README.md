@@ -18,6 +18,10 @@ Welcome to my GitHub Profile 🚀
 - PHP / JS Testing 🐘
 - Svelte 🤩
 
+### Skills Overview
+[![My Skills](https://skillicons.dev/icons?i=php,js,dart,html,css,laravel,nextjs,nuxtjs,react,vue,alpinejs,sass,tailwind,bootstrap,mysql,postgres,firebase,flutter,figma,xd,git,github,graphql,idea,vscode&perline=5)](https://skillicons.dev)
+
+
 ### Skills
 | # | Details |
 |-----:|-----------|
@@ -27,3 +31,4 @@ Welcome to my GitHub Profile 🚀
 | Databases | MySQL - PostgreSQL - NoSQL (Firebase) |
 | Designing | Figma - Sketch - Adobe XD - Framer |
 | Other | Git - AJAX - Consuming API - Flutter UI - Graph QL - React Native - PocketBase |
+| Editors | VS Code - PhpStorm - WebStorm - Sublime Text - VIM |
