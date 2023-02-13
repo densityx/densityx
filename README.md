@@ -2,19 +2,18 @@
 Welcome to my GitHub Profile 🚀
 
 ### About Me
-- 🧑🏻‍💻 Software Engineer at ValueLabs
+- 🧑🏻‍💻 Software Engineer
 - 🖥 Day to day working on Strapi CMS, NextJs, ReactJs, Tailwind CSS and More
-- 💜 I Love writing PHP, JS, TS and building web-based projects
+- 💙 I Love writing PHP, TS, Dart and building mobile + web-based projects
 
 ### Personal Project I am Currently Working on 💪🏻
-- React Native App
-- Portfolio V3
+- Portfolio V3 🎓
 - Filament PHP Extension 🦒
+- Some other awesome things 🤗
 
 ### Things I am Currently Learning 🧪
-- React Native 🫶🏻
 - NestJs 🦁
-- Flutter 📱
+- Flutter 3 📱
 - PHP / JS Testing 🐘
 - Svelte 🤩
 
