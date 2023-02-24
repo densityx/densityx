@@ -1,26 +1,23 @@
-## Hey, Ahmad Aziz here! 👋🏻
+## Hey there, Ahmad Aziz here! 👋🏻
 Welcome to my GitHub Profile 🚀
 
 ### About Me
-🧑🏻‍💻 Software Engineer
+- 🧑🏻‍💻 Software Engineer
+- 🖥 Day to day working on Laravel, Strapi CMS, NextJs, ReactJs, Tailwind CSS and More
+- 💙 I Love writing PHP, JS/TS, Dart and building mobile + web-based projects
 
-🖥 Day to day working on Laravel, Strapi CMS, NextJs, ReactJs, Tailwind CSS and More
-
-💙 I Love writing PHP, JS/TS, Dart and building mobile + web-based projects
 
 ### Personal Project I am Currently Working on 💪🏻
-🎓 Portfolio V3
-
-🦒 Filament PHP Extension
-
-🤗 Some other awesome things
+- 🎓 Portfolio V3
+- 🦒 Filament PHP Extension
+- 🤗 Some other awesome things
 
 ### Things I am Currently Learning 🧪
-🦁 NestJs
-📱 Flutter 3
-🎯 PHP / JS Testing
-🤩 Svelte
-💃🏼 React Native Animation
+- 🦁 NestJs
+- 📱 Flutter 3
+- 🎯 PHP / JS Testing
+- 🤩 Svelte
+- 💃🏼 React Native Animation
 
 ### Skills Overview
 [![My Skills](https://skillicons.dev/icons?i=php,js,dart,html,css,laravel,nextjs,nuxtjs,react,vue,alpinejs,sass,tailwind,bootstrap,mysql,postgres,firebase,flutter,figma,xd,git,github,graphql,idea,vscode&perline=5)](https://skillicons.dev)
