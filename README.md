@@ -2,15 +2,15 @@
 Welcome to my GitHub Profile 🚀
 
 ### About Me
-- 🧑🏻‍💻 Software Engineer
-- 🖥 Day to day working on Laravel, Strapi CMS, NextJs, ReactJs, Tailwind CSS and More
-- 💙 I Love writing PHP, JS/TS, Dart and building mobile + web-based projects
+- 🧑🏻‍💻 Software Engineer @day-and-night 🌝🌚
+- 🖥 Day to day working on Laravel, Strapi CMS, NextJs, ReactJs, React Native, Tailwind CSS & more
+- 💜 I Love writing PHP, JS/TS & Dart (Rocking the TALL stack)
+- 📲 Crafting mobile & web-based projects as hobby
 
 
 ### Personal Project I am Currently Working on 💪🏻
 - 🎓 Portfolio V3
-- 🦒 Filament PHP Extension
-- 🤗 Some other awesome things
+- 🤗 Cool *React Native Apps*
 
 ### Things I am Currently Learning 🧪
 - 🦁 NestJs
