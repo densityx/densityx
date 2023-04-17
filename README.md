@@ -2,22 +2,21 @@
 Welcome to my GitHub Profile 🚀
 
 ### About Me
-- 🧑🏻‍💻 Software Engineer @day-and-night 🌝🌚
-- 🖥 Day to day working on Laravel, Strapi CMS, NextJs, ReactJs, React Native, Tailwind CSS & more
-- 💜 I Love writing PHP, JS/TS & Dart (Rocking the TALL stack)
+- 🧑🏻‍💻 Software Engineer @Zurich Insurance
+- 🖥 Day to day working on Laravel, Strapi, NextJs, ReactJs, React Native, Tailwind CSS & more
+- 💜 I Love writing PHP, JS/TS and Rocking the TALL stack
 - 📲 Crafting mobile & web-based projects as hobby
-
 
 ### Personal Project I am Currently Working on 💪🏻
 - 🎓 Portfolio V3
-- 🤗 Cool *React Native Apps*
+- 🤗 React Native Apps
 
 ### Things I am Currently Learning 🧪
-- 🦁 NestJs
 - 📱 Flutter 3
 - 🎯 PHP / JS Testing
-- 🤩 Svelte
+- 🤩 Svelte / Next Js 13
 - 💃🏼 React Native Animation
+- 💅🏻 Web Components
 
 ### Skills Overview
 [![My Skills](https://skillicons.dev/icons?i=php,js,dart,html,css,laravel,nextjs,nuxtjs,react,vue,alpinejs,sass,tailwind,bootstrap,mysql,postgres,firebase,flutter,figma,xd,git,github,graphql,idea,vscode&perline=5)](https://skillicons.dev)
