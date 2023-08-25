@@ -10,11 +10,12 @@ Welcome to my GitHub Profile 🚀
 ### Personal Project I am Currently Working on 💪🏻
 - 🎓 Portfolio V3
 - 🤗 React Native Apps
+- 🚀 SAAS
 
 ### Things I am Currently Learning 🧪
 - 📱 Flutter 3
-- 🎯 PHP / JS Testing
-- 🤩 Svelte / Next Js 13
+- 🎯 PEST / JEST
+- 🤩 Nest Js
 - 💃🏼 React Native Animation
 - 💅🏻 Web Components
 
@@ -25,11 +26,12 @@ Welcome to my GitHub Profile 🚀
 ### Skills
 | # | Details |
 |-----:|-----------|
-| Languages | PHP - JavaScript - Dart - HTML - CSS |
+| Languages | PHP - JavaScript - TypeScript - Dart - HTML - CSS |
 | Front end | ReactJs - VueJS - AlpineJS - Sass - Tailwind CSS - Bootstrap 5 |
 | Back end | Laravel - NextJs - NuxtJs - NestJs - Strapi CMS |
 | Mobile | React Native - Flutter - NoSQL (Firebase) - PocketBase - Supabase |
-| Databases | MySQL - PostgreSQL - SQLite |
+| Databases | MySQL - PostgreSQL - SQLite - Firebase |
 | Designing | Figma - Sketch - Adobe XD - Framer - Lunacy |
+| AWS | S3 - SM - ElastiCache - CloudWatch - RDS |
 | Other | Git - AJAX - Consuming API - Flutter UI - Graph QL |
-| Editors | VS Code - PhpStorm - WebStorm - Sublime Text - VIM |
+| Editors | PhpStorm - WebStorm - VS Code - Sublime Text - VIM |
