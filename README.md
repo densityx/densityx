@@ -15,7 +15,6 @@ Welcome to my GitHub Profile 🚀
 ### Things I am Currently Learning 🧪
 - 📱 Flutter 3
 - 🎯 PEST / JEST
-- 🤩 Nest Js
 - 💃🏼 React Native Animation
 - 💅🏻 Web Components
 
@@ -28,7 +27,7 @@ Welcome to my GitHub Profile 🚀
 |-----:|-----------|
 | Languages | PHP - JavaScript - TypeScript - Dart - HTML - CSS |
 | Front end | ReactJs - VueJS - AlpineJS - Sass - Tailwind CSS - Bootstrap 5 |
-| Back end | Laravel - NextJs - NuxtJs - NestJs - Strapi CMS |
+| Back end | Laravel - NextJs - NuxtJs - NestJs - Strapi CMS - Nest Js |
 | Mobile | React Native - Flutter - NoSQL (Firebase) - PocketBase - Supabase |
 | Databases | MySQL - PostgreSQL - SQLite - Firebase |
 | Designing | Figma - Sketch - Adobe XD - Framer - Lunacy |
