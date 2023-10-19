@@ -27,10 +27,10 @@ Welcome to my GitHub Profile 🚀
 |-----:|-----------|
 | Languages | PHP - JavaScript - TypeScript - Dart - HTML - CSS |
 | Front end | ReactJs - VueJS - AlpineJS - Sass - Tailwind CSS - Bootstrap 5 |
-| Back end | Laravel - NextJs - NuxtJs - NestJs - Strapi CMS - Nest Js |
+| Back end | Laravel - NextJs - NuxtJs - NestJs - Strapi CMS |
 | Mobile | React Native - Flutter - NoSQL (Firebase) - PocketBase - Supabase |
 | Databases | MySQL - PostgreSQL - SQLite - Firebase |
 | Designing | Figma - Sketch - Adobe XD - Framer - Lunacy |
-| AWS | S3 - SM - ElastiCache - CloudWatch - RDS |
+| AWS | S3 - Secret Manager - ElastiCache - CloudWatch - RDS |
 | Other | Git - AJAX - Consuming API - Flutter UI - Graph QL |
 | Editors | PhpStorm - WebStorm - VS Code - Sublime Text - VIM |
